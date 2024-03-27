@@ -1,6 +1,7 @@
 # Team 6 for Morgan Stanley's Code To Give Hackathon
 **Made with JavaScript and hosted on Firebase & Glitch!**
 
+Demo live at https://codetogive6.web.app/
 >[!NOTE]
 >This website is currently in beta and bugs will be a-plenty! Please report bugs if you find any!
 
